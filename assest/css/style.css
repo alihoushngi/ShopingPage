@@ -3,3 +3,23 @@
 .primaryColor {
   color: #3d8bc2;
 }
+
+.firstCol {
+  min-height: 100vh;
+}
+
+.logo-wrapper {
+  width: 200px;
+}
+
+.col2-wrapper {
+  height: 100px;
+  width: 80%;
+  margin-bottom: 2rem;
+  border-radius: 10px;
+  background-color: #3d8bc2;
+}
+
+.cash-wrapper {
+  padding-top: 30px;
+}
